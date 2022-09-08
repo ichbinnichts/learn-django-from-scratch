@@ -15,3 +15,4 @@ This is a project so i can learn django from scratch
 * django-admin startproject "name-project"
 * django-admin runserver
 * python manage.py runserver "port" (default 8000)
+* python manage.py startapp "name-app"
