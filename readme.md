@@ -1,6 +1,7 @@
 # Notes
 
-This is a project so i can learn django from scratch
+This is a project so i can learn django from scratch.
+Learning a little of backend development with Django(python)
 
 ## References
 
