@@ -13,3 +13,5 @@ This is a project so i can learn django from scratch
 * pipenv install django
 * pipenv shell //change to the virtual env
 * django-admin startproject "name-project"
+* django-admin runserver
+* python manage.py runserver "port" (default 8000)
